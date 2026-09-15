@@ -1,27 +1,65 @@
-# Hi, I'm Amine 👋
+# Mohamed Amine Bouhassoune
 
-Engineering student passionate about IT, building projects from the ground up as I figure out where I want to specialize.
+**Systems & IT Engineering Student — ENSA Agadir**  
+Low-level systems | Linux/POSIX | Memory architecture | Automation tooling
 
-- 🔭 Currently building: a modular C++ CLI fitness tracker with custom classes, dynamic memory management, and file I/O for persistent data
-- 🤖 Interested in: AI/ML, systems programming, and object-oriented design
-- 🎯 Into: fitness and tracking real-world metrics through code
-- 🌱 Learning toward: a Master's in Computer Science abroad
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aminebouhassoune) · aminemestro@gmail.com
+---
+
+## Stack
+
+| Layer | Tools |
+|---|---|
+| **Systems** | C, C++, GDB, Valgrind, Make |
+| **Scripting & Automation** | Python, Bash |
+| **Environment** | Linux, POSIX, Git |
+| **In active use** | POSIX sockets, manual memory management, headless browser automation |
+
+---
 
 ## Projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| **CLI Fitness & Metric Tracker** | C++, OOP, File I/O | Persistent macro/metric tracking app built with custom classes and dynamic memory management |
-| **Gas Detection & Monitoring System** | Arduino, C++ | Real-time monitoring system with threshold-based alert logic |
+### [PDFMate](https://github.com/Amineimmo/PDFMate)
+**Python · CLI · Zero third-party web services**
 
-*Full source, commit history, and docs for each on my pinned repos.*
+Local document processing pipeline. Handles text and Markdown extraction, Word conversion, and page rendering entirely offline. Built as a direct rejection of cloud-dependent tooling for document workflows.
 
-## Tech Stack
+---
 
-**Languages:** C++, Java, Python, C, JavaScript, HTML5, CSS3
-**Tools:** Git, GitHub, VS Code, Visual Studio, Linux/CLI, MATLAB, Proteus
+### [Price Drop Tracker](https://github.com/Amineimmo/price-drop-tracker)
+**Python · Playwright · Telegram Bot API · Async**
 
-## GitHub Stats
+Asynchronous, multi-platform e-commerce price monitor. Headless browser scraping with automated Telegram alert dispatches. Designed for reliability under load and minimal intervention after deployment.
+
+---
+
+## Systems Work in Progress
+
+Active focus on moving down the stack. Everything below is built from scratch — no standard library containers, no garbage collection, zero Valgrind leaks.
+
+```
+Enforcement flags: -Wall -Wextra -Werror -fsanitize=address
+Leak tolerance:    0 bytes
+External deps:     none
+```
+
+| Module | Status |
+|---|---|
+| Dynamic array (generic, resizable) | 🔧 In progress |
+| Linked list — singly & doubly linked | 🔧 In progress |
+| Hash map with open addressing | 🔧 In progress |
+| Custom `malloc` / `free` arena allocator | 🔧 In progress |
+| POSIX socket server (TCP, non-blocking) | 🔧 In progress |
+
+> The goal is not to reinvent libc. The goal is to stop treating memory as magic.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminebouhassoune)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aminemestro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Amineimmo)
+
+---
 
 ![Amine's GitHub stats](https://github-readme-stats.shion.dev/api?username=Amineimmo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)

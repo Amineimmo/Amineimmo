@@ -1,0 +1,4 @@
+# only needed locally when you change your photo (the daily workflow doesn't use these)
+pillow
+numpy
+opencv-python-headless

@@ -1,57 +1,33 @@
-# Mohamed Amine Bouhassoune
+<div align="center">
 
-**IT & AI Engineering Student** · ENSA Agadir, Université Ibn Zohr  
-Building toward systems that actually matter — starting from the metal up.
+<h3><code>amine@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap for the last 12 months" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aminebouhassoune-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aminebouhassoune/)
-[![Email](https://img.shields.io/badge/Email-aminemestro@gmail.com-EA4335?style=flat&logo=gmail)](mailto:aminemestro@gmail.com)
+<br><br>
 
----
+<h3><code>amine@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./amine-ascii.svg" width="370" alt="ASCII portrait of Amine" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Mohamed Amine Bouhassoune — IT & AI Engineering student at ENSA Agadir. C, C++, Python, JavaScript. Seeking a summer 2027 internship." /></td>
+  </tr>
+</table>
 
-## What I'm Building Toward
+<br>
 
-I'm following a self-directed systems & AI engineering curriculum — working through low-level foundations before touching anything high-level. The roadmap goes in this order, and I won't rush it:
+<h3><code>amine@github ~ $ ls projects/</code></h3>
 
-| Phase | Focus | Target Output |
-|-------|-------|---------------|
-| **1** | Pointers & Memory Architecture — CS:APP + CS50 | `hex_viewer` — binary file reader, zero Valgrind leaks |
-| **2** | Data Structures & Algorithmic Rigor — Sedgewick + NeetCode 150 in C/C++ | `LibCoreData` — dynamic arrays, linked lists, open-addressing hash table |
-| **3** | OS & Concurrency — OSTEP + pthreads, mmap, sbrk | `MemLite` — custom user-space `malloc` / `free` / `realloc` |
-| **4** | POSIX Network Systems — Beej's Guide + RFC 7230 + epoll | `FlashHTTP` — async non-blocking HTTP/1.1 server benchmarked under `wrk` |
+| Project | What it does | Stack |
+|---|---|---|
+| [**price-drop-tracker-bot**](https://github.com/Amineimmo/price-drop-tracker-bot) | Multi-user Telegram bot that tracks prices on Amazon, eBay and Jumia Maroc with automated background checks and instant drop alerts | Python · Playwright |
+| [**lumi-ai**](https://github.com/Amineimmo/lumi-ai) | AI study assistant: turns academic PDFs into structured summaries, core definitions and active-recall flashcards using local text parsing and LLM structured outputs | Python · LLM |
+| [**PDFMate**](https://github.com/Amineimmo/PDFMate) | Fast local CLI to extract text/Markdown, convert PDFs to Word, or render pages as PNGs, with no third-party web services | Python |
+| [**Hex-viewer-V1**](https://github.com/Amineimmo/Hex-viewer-V1) | Command-line hex viewer showing binary files as hexadecimal and printable ASCII, 16 bytes per row (built to practice CS:APP) | C |
 
----
+<br>
 
-## Projects
+<h3><code>amine@github ~ $ contact --open-to internships</code></h3>
 
-### [`c-systems-foundations`](https://github.com/Amineimmo/c-systems-foundations) · C
-Manual memory management, pointer arithmetic, struct alignment, dynamic heap structures, and binary I/O — compiled under strict flags with zero Valgrind leaks. This is where the roadmap above starts.
+[**LinkedIn**](https://www.linkedin.com/in/aminebouhassoune/) &nbsp;·&nbsp; [**aminemestro@gmail.com**](mailto:aminemestro@gmail.com)
 
-### [`PDFMate`](https://github.com/Amineimmo/PDFMate) · Python
-CLI tool for local PDF processing — no third-party web services. Extracts text or Markdown, converts to Word, and renders pages as PNGs.
-
-### [`price-drop-tracker-bot`](https://github.com/Amineimmo/price-drop-tracker-bot) · Python ⭐
-Multi-user Telegram bot built with Python & Playwright. Tracks prices on Amazon, eBay, and Jumia Maroc — automated background checks with instant drop alerts.
-
-### [`Weather-app`](https://github.com/Amineimmo/Weather-app) · Python
-Command-line weather app. Simple, functional, no fluff.
-
-### [`file-organizer-windows`](https://github.com/Amineimmo/file-oganizer-windows) · Python
-Script that automatically organizes files in a folder by type.
-
-### [`python-expense-tracker`](https://github.com/Amineimmo/python-expense-tracker) · Python
-Command-line expense tracker. Input, categorize, review.
-
-### [`python-quiz-game`](https://github.com/Amineimmo/python-quiz-game) · Python
-Command-line quiz game. Built early on, kept here for completeness.
-
----
-
-## Stack
-
-**Languages** — C · C++ · Python · (Java, basic)  
-**Tools** — GDB · Valgrind · Git · Linux · Playwright  
-**Currently studying** — CS:APP · CS50 · OSTEP · Beej's Networking Guide
-
----
-
-*Second-year engineering student figuring things out one layer of abstraction at a time.*
+</div>

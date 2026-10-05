@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 370" width="490" height="370" role="img" aria-label="Info card for Mohamed Amine Bouhassoune">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:13px}
+.l{animation:in .5s ease-out backwards}
+@keyframes in{from{opacity:0;transform:translateX(-10px)}}
+.b{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="490" height="370" rx="10" fill="#0d1117"/>
+<rect width="490" height="26" rx="10" fill="#161b22"/><rect y="14" width="490" height="12" fill="#161b22"/>
+<circle cx="18" cy="13" r="5" fill="#ff5f56"/><circle cx="36" cy="13" r="5" fill="#ffbd2e"/><circle cx="54" cy="13" r="5" fill="#27c93f"/>
+<text x="245.0" y="17" text-anchor="middle" font-size="11" fill="#7d8590" style="font-size:11px">amine@ensa-agadir: ~</text>
+<g class="l" style="animation-delay:0.30s"><text x="22" y="56" fill="#39d353" style="font-size:16px;font-weight:bold">Mohamed Amine Bouhassoune</text></g>
+<g class="l" style="animation-delay:0.50s"><text x="22" y="76" fill="#7d8590">────────────────────────────────────────</text></g>
+<g class="l" style="animation-delay:0.70s"><text x="22" y="102" fill="#58a6ff" style="font-weight:bold">Role</text><text x="100" y="102" fill="#7d8590">:</text><text x="116" y="102" fill="#e6edf3">IT &amp; AI Engineering student @ ENSA Agadir</text></g>
+<g class="l" style="animation-delay:0.92s"><text x="22" y="128" fill="#58a6ff" style="font-weight:bold">Now</text><text x="100" y="128" fill="#7d8590">:</text><text x="116" y="128" fill="#e6edf3">CS:APP · OSTEP · NeetCode 150 (21/150)</text></g>
+<g class="l" style="animation-delay:1.14s"><text x="22" y="154" fill="#58a6ff" style="font-weight:bold">Systems</text><text x="100" y="154" fill="#7d8590">:</text><text x="116" y="154" fill="#e6edf3">C · pointers · memory layout · linking</text></g>
+<g class="l" style="animation-delay:1.36s"><text x="22" y="180" fill="#58a6ff" style="font-weight:bold">Stack</text><text x="100" y="180" fill="#7d8590">:</text><text x="116" y="180" fill="#e6edf3">C, C++, Python, JavaScript, HTML/CSS</text></g>
+<g class="l" style="animation-delay:1.58s"><text x="22" y="206" fill="#58a6ff" style="font-weight:bold">Learning</text><text x="100" y="206" fill="#7d8590">:</text><text x="116" y="206" fill="#e6edf3">Linux, SQL → ML · LLMOps · DevOps · Cloud</text></g>
+<g class="l" style="animation-delay:1.80s"><text x="22" y="232" fill="#58a6ff" style="font-weight:bold">Built</text><text x="100" y="232" fill="#7d8590">:</text><text x="116" y="232" fill="#e6edf3">Telegram price bot · lumi-ai · PDFMate</text></g>
+<g class="l" style="animation-delay:2.02s"><text x="22" y="258" fill="#58a6ff" style="font-weight:bold">Seeking</text><text x="100" y="258" fill="#7d8590">:</text><text x="116" y="258" fill="#e6edf3">Summer 2027 internship · SWE / AI / systems</text></g>
+<g class="l" style="animation-delay:2.24s"><text x="22" y="284" fill="#58a6ff" style="font-weight:bold">LinkedIn</text><text x="100" y="284" fill="#7d8590">:</text><text x="116" y="284" fill="#e6edf3">in/aminebouhassoune</text></g>
+<g class="l" style="animation-delay:2.46s"><text x="22" y="310" fill="#58a6ff" style="font-weight:bold">Email</text><text x="100" y="310" fill="#7d8590">:</text><text x="116" y="310" fill="#e6edf3">aminemestro@gmail.com</text></g>
+<g class="l" style="animation-delay:2.68s"><rect x="22" y="326" width="18" height="12" rx="2" fill="#ff7b72"/><rect x="44" y="326" width="18" height="12" rx="2" fill="#ffa657"/><rect x="66" y="326" width="18" height="12" rx="2" fill="#f2cc60"/><rect x="88" y="326" width="18" height="12" rx="2" fill="#39d353"/><rect x="110" y="326" width="18" height="12" rx="2" fill="#58a6ff"/><rect x="132" y="326" width="18" height="12" rx="2" fill="#bc8cff"/><rect x="154" y="326" width="18" height="12" rx="2" fill="#e6edf3"/><rect x="176" y="326" width="18" height="12" rx="2" fill="#7d8590"/></g>
+<g class="l" style="animation-delay:2.88s"><text x="22" y="362" fill="#39d353">amine@github</text><text x="124" y="362" fill="#7d8590">~ $</text><rect class="b" x="156" y="350" width="8" height="15" fill="#e6edf3"/></g>
+</svg>
